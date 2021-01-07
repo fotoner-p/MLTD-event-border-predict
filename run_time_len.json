@@ -1,0 +1,150 @@
+{
+	"run_time_mean": 357.3333333333333,
+	"run_time_std": 37.21409529854096,
+	"boost_time_mean": 186.66666666666666,
+	"boost_time_std": 18.856180831641268,
+	"11": {
+		"run_time_len": 492,
+		"boost_time_len": 240
+	},
+	"14": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"17": {
+		"run_time_len": 396,
+		"boost_time_len": 192
+	},
+	"20": {
+		"run_time_len": 300,
+		"boost_time_len": 144
+	},
+	"23": {
+		"run_time_len": 396,
+		"boost_time_len": 192
+	},
+	"26": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"29": {
+		"run_time_len": 396,
+		"boost_time_len": 192
+	},
+	"32": {
+		"run_time_len": 396,
+		"boost_time_len": 192
+	},
+	"35": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"46": {
+		"run_time_len": 396,
+		"boost_time_len": 192
+	},
+	"50": {
+		"run_time_len": 396,
+		"boost_time_len": 192
+	},
+	"54": {
+		"run_time_len": 300,
+		"boost_time_len": 144
+	},
+	"58": {
+		"run_time_len": 396,
+		"boost_time_len": 192
+	},
+	"62": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"66": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"70": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"74": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"78": {
+		"run_time_len": 300,
+		"boost_time_len": 144
+	},
+	"83": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"87": {
+		"run_time_len": 396,
+		"boost_time_len": 192
+	},
+	"91": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"94": {
+		"run_time_len": 300,
+		"boost_time_len": 144
+	},
+	"98": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"102": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"106": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"110": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"114": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"119": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"123": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"131": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"135": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"139": {
+		"run_time_len": 300,
+		"boost_time_len": 144
+	},
+	"144": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"148": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	},
+	"152": {
+		"run_time_len": 396,
+		"boost_time_len": 192
+	},
+	"156": {
+		"run_time_len": 348,
+		"boost_time_len": 192
+	}
+}
